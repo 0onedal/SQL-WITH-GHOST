@@ -1,4 +1,4 @@
-## SQL WITH GHOST {G|N}
+## 𝚂𝚀𝙻 𝚆𝙸𝚃𝙷 𝙶𝙷𝙾𝚂𝚃 {𝙶|𝙽}
 ### تثيت SQL Server
 - SQL SERVER
 - للتحميل اضغط عل اللينك الأزرق
