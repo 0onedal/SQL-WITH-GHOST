@@ -4,6 +4,7 @@
 - للتحميل أضغط عل اللينك
 - [**SQL SERVER CLICK HERE**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Download Sql Server")
 
+![My GIF](images/DonwloadSql.gif)
 ---
 
 ### خطوات التثبيت:
