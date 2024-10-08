@@ -1,7 +1,7 @@
 ## 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚂𝚚𝚕 𝚆𝚒𝚝𝚑 𝙶𝚑𝚘𝚜𝚝 {𝙶|𝙽}
 
 ### INSTALL SQL SERVER
-- للتحميل اضغط على اللينك الأزرق:
+- علشان تحمل ال SQL Server اضغط على اللينك الأزرق:
   - [**SQL SERVER**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Download Sql Server")
 
 ---
@@ -61,7 +61,8 @@
 
 ---
 
-
+#### علشان نبدأ عملية تحميل و تثبيت ال SQL Studio أضغط على اللينك الأزرق:
+[INSTALL-SQL-STUDIO.md](INSTALL-SQL-STUDIO.md)
 
 
 
