@@ -2,7 +2,7 @@
 ### تثيت SQL Server
 - SQL SERVER
 - للتحميل اضغط عل اللينك الأزرق
- [**SQL SERVER**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Download Sql Server")
+  -[**SQL SERVER**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Download Sql Server")
 > الخطوة الأولى  
 ![الخطوة الأولى](./images/1.PNG)
 
