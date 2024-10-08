@@ -1,2 +1,3 @@
 # SQL WITH GHOST {G|N}
-## [ -> INSTALL THE SQL SERVER <- ]
+## [ -> Install Sql Server <- ]
+[Download Sql Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Download Sql Server")
