@@ -8,5 +8,33 @@
 - أول حاجه هندخل على اللينك ده
 - [Download SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 #### فيديو لتوضيح أزاي تنزله
-[](./gifs/SSMS.gif)
-[]()
+![SSMS GIF](./gifs/SSMS.gif)
+
+---
+
+### ماذا بعد ؟؟
+#### هنفتح البرنامج اللي نزلناه هنضغط على دول 
+- Install
+- هتستنى يخلص تحميل لازم يكتبلك كده
+- Setup Completed
+- Close
+### مفيش أسهل من كده أظن 
+
+<div align="center"> 
+  <strong>افرحوا كده خلصنا</strong>
+</div>
+
+> [!IMPORTANT]
+> بس ياصديقي لو حظك سيء متفرحش أوي لأن ممكن يحصل معاك مشكله أثناء التثبيت بس مش هسيبك يعني عيب عليك
+
+
+
+
+
+
+
+
+
+
+
+
