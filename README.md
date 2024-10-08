@@ -60,7 +60,7 @@
 - **SQL Server Management Studio (SSMS)**
 
 ---
-> [!IMPORTANT]\
+> [!WARNING]\
 > الرجاء ملاحظة هذه التغييرات المهمة.
 
 
