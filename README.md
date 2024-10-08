@@ -1,6 +1,5 @@
 ## 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚂𝚚𝚕 𝚆𝚒𝚝𝚑 𝙶𝚑𝚘𝚜𝚝 {𝙶|𝙽}
 ### Install SQL Server
-- SQL SERVER
 - للتحميل اضغط عل اللينك الأزرق
   - [**SQL SERVER**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Download Sql Server")
 > الخطوة الأولى  
