@@ -51,7 +51,7 @@
 
 ---
 > [!NOTE]\
-> **بكده تكون عملية تثبيت ال sql server أكتملت**
+> **بكده تكون عملية تثبيت ال SQL Server أكتملت**
 ---
 #### بعد مخلصنا تثبيت هنتقل لمرحلة تحميل تانيه وهي مرحلة تحميل  SQL Studio
 #### يعني أيه أصلا SQL Studio دي بيئة عمل متكامله من خلال بتدير SQL Server
@@ -59,8 +59,9 @@
 - **SQL Studio**
 - **SQL Server Management Studio (SSMS)**
 
-
-
+---
+> [!IMPORTANT]\
+> HI
 
 
 
