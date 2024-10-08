@@ -48,8 +48,7 @@
 
 > الخطوة الرابعة عشر  
 ![الخطوة الرابعة عشر](./images/14.png)
-> [!NOTE]\
-> بكده تكون عملية تثبيت ال sql server أكتملت
+
 ---
 > [!NOTE]\
-> Palindrome Is a Number That Reads The Same From Right To Left.
+> بكده تكون عملية تثبيت ال sql server أكتملت
