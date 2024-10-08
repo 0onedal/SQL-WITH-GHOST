@@ -51,3 +51,5 @@
 > [!NOTE]\
 > بكده تكون عملية تثبيت ال sql server أكتملت
 ---
+> [!NOTE]\
+> Palindrome Is a Number That Reads The Same From Right To Left.
