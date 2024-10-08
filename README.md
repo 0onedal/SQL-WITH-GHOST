@@ -56,8 +56,8 @@
 #### بعد مخلصنا تثبيت هنتقل لمرحلة تحميل تانيه وهي مرحلة تحميل  sql studio
 #### يعني أيه أصلا sql studio دي بيئة عمل متكامله من خلال بتدير sql server
 #### تقدر تقول عل بيئة العمل الأتي 
-1. **Sql Studio**
-2. **SQL Server Management Studio (SSMS)**
+- **Sql Studio**
+- **SQL Server Management Studio (SSMS)**
 
 
 
