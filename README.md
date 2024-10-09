@@ -13,7 +13,7 @@
 - [**SQL SERVER CLICK HERE**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Download Sql Server")
 
 > <div align="center"> 
-> <strongm>فيديو لتوضيح طريقة التحميل</strong>
+> <strong>فيديو لتوضيح طريقة التحميل</strong>
 > </div>
 
 ![My GIF](./gifs/DonwloadSql.gif)
