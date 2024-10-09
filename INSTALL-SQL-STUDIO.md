@@ -36,8 +36,12 @@
 
 
 
-
-
+> [!NOTE] <div align="center"> 
+>  <strong> SQL Sever ممكن ابقا اشرح </strong>
+>
+> #### فاتبع من خلا اللينك ده
+> [SQL-SERVER](SQL-SERVER)
+> </div>
 
 
 
