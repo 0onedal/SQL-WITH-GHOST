@@ -5,7 +5,7 @@
 </div>
 
 ### Download SQL Studio 
-- أول حاجه هندخل على اللينك ده
+- أول حاجه هندخل على اللينك ده للتحميل
 - [Download SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 #### فيديو لتوضيح أزاي تنزله
 ![SSMS GIF](./gifs/SSMS.gif)
