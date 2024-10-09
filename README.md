@@ -1,7 +1,5 @@
 <div align="center">
-
 [![](https://visitcount.itsvg.in/api?id=SQL-WITH-GHOST&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
 
 ## 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚂𝚚𝚕 𝚆𝚒𝚝𝚑 𝙶𝚑𝚘𝚜𝚝 {𝙶|𝙽}
@@ -12,6 +10,10 @@
 ### INSTALL SQL SERVER
 - للتحميل أضغط عل اللينك
 - [**SQL SERVER CLICK HERE**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Download Sql Server")
+
+> <div align="center"> 
+> <strongm>فيديو لتوضيح طريقة التحميل</strong>
+> </div>
 
 ![My GIF](./gifs/DonwloadSql.gif)
 ---
