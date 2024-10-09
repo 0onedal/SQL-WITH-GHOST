@@ -40,7 +40,7 @@
 >  <strong> SQL Server ممكن ابقا اشرح </strong>
 >
 > #### فاتبع من خلا اللينك ده
-> [SQL-SERVER.md](SQL-SERVER.md)
+> [SQL-SERVER](SQL-SERVER.md)
 > </div>
 
 
