@@ -37,7 +37,7 @@
 
 
 > [!NOTE] <div align="center"> 
->  <strong> SQL Sever ممكن ابقا اشرح </strong>
+>  <strong> SQL Server ممكن ابقا اشرح </strong>
 >
 > #### فاتبع من خلا اللينك ده
 > [SQL-SERVER.md](SQL-SERVER.md)
