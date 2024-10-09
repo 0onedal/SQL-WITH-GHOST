@@ -30,7 +30,13 @@
 > > تقدر تاخد المسار ده Copy
 > 
 > > Path Used In Video :  `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager`
-> [لو مهتم تعرف عن سبب المشكله أضغط هنا](fix.md)
+> 
+ > [لو مهتم تعرف عن سبب المشكله أضغط هنا حاجه أختياريه مش شرط تعرفها ]( fix.md "lilnk")
+>
+> <div align="center"> 
+> <strongm>فيديو لتوضيح طريقة حل المشكلة</strong>
+> </div>
+
 > ![FIX](./gifs/fix.gif)
 
 
