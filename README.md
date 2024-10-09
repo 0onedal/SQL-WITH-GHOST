@@ -66,7 +66,7 @@
 ---
 
 #### علشان نبدأ عملية تحميل و تثبيت ال SQL Studio أضغط على اللينك الأزرق:
-[INSTALL-SQL-STUDIO.md](INSTALL-SQL-STUDIO.md)
+[INSTALL-SQL-STUDIO](INSTALL-SQL-STUDIO.md)
 
 
 
