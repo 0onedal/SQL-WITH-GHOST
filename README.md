@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=SQL-WITH-GHOST&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-## 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚂𝚚𝚕 𝚆𝚒𝚝𝚑 𝙶𝚑𝚘𝚜𝚝 {𝙶|𝙽}
+## 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚂𝚚𝚕 {𝙶|𝙽}
 <div align="center"> 
 💀 𝐋𝐄𝐓'𝐒 𝐃𝐎 𝐓𝐇𝐈𝐒 💀
 </div>
